@@ -1,2 +1,2 @@
 <?php
-require_once("/web/index.jsp");
+require_once("web/index.jsp");
